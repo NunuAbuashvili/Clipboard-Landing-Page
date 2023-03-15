@@ -26,7 +26,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/NunuAbuashvili/Clipboard-Landing-Page.git)
-- Live Site URL: [Live site URL here](https:nunuabuashvili.github.io/Clipboard-Landing-Page/)
+- Live Site URL: [Live site URL here](https://nunuabuashvili.github.io/Clipboard-Landing-Page/)
 
 ## My process
 
